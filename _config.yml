@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://github.com/silverlining66/silverlining66.github.io
+url: https://silverlining66.github.io
 date_format: "ordinal"
 title: 个人博客
 subtitle: "宋凯的个人博客"
